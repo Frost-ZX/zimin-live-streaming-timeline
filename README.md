@@ -2,7 +2,7 @@
 
 记录籽岷在B站直播的时间和内容。
 
-如有错漏，欢迎各位通过提交 Issue 或 Pull Request 的方式进行完善。
+如有错漏，欢迎各位通过提交 Issue 或 Pull Request 的方式进行完善（`data.json`）。
 
 ## 相关链接
 
@@ -13,3 +13,7 @@
 
 - [data.json](./data.json)
 - [data.md](./data.md)
+
+## 其他说明
+
+- 文件 `data.md` 为自动生成，具体可参考 `scripts/README.md`。

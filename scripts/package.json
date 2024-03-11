@@ -1,0 +1,19 @@
+{
+  "name": "zimin-live-streaming-timeline-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "auto",
+    "script"
+  ],
+  "author": "Frost-ZX",
+  "license": "MIT",
+  "dependencies": {
+    "json2md": "^2.0.1"
+  }
+}
