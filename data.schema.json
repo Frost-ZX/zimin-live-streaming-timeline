@@ -1,0 +1,44 @@
+{
+  "type": "object",
+  "required": [
+    "timeline"
+  ],
+  "properties": {
+    "timeline": {
+      "type": "array",
+      "title": "时间线",
+      "items": {
+        "type": "object",
+        "required": [
+          "startTime",
+          "endTime"
+        ],
+        "properties": {
+          "startTime": {
+            "type": "string",
+            "title": "开始时间"
+          },
+          "endTime": {
+            "type": "string",
+            "title": "结束时间"
+          },
+          "content": {
+            "type": "string",
+            "title": "直播内容",
+            "default": ""
+          }
+        },
+        "defaultSnippets": [
+          {
+            "label": "基础格式",
+            "body": {
+              "startTime": "",
+              "endTime": "",
+              "content": ""
+            }
+          }
+        ]
+      }
+    }
+  }
+}

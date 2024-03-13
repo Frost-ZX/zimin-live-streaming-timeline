@@ -1,4 +1,5 @@
 {
+  "$schema": "./data.schema.json",
   "timeline": [
     {
       "startTime": "2024-03-10 21:27",
