@@ -29,7 +29,7 @@ export function generateMarkdown() {
     let tableRows = jsonMarkdown[0].table.rows;
     let result = ''
 
-    jsonParsed.forEach((data) => {
+    jsonParsed.timeline.forEach((data) => {
       tableRows.push([
         data.startTime || '',
         data.endTime || '',
