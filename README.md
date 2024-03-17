@@ -1,6 +1,6 @@
 # zimin-live-streaming-timeline
 
-记录籽岷在B站直播的时间和内容。
+记录籽岷在B站直播的时间（基于 UTC+8）和内容。
 
 如有错漏，欢迎各位通过提交 Issue 或 Pull Request 的方式进行完善（`data.json`）。
 
