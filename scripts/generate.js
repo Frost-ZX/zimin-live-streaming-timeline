@@ -21,6 +21,7 @@ export function generateMarkdown() {
           '开始时间',
           '结束时间',
           '直播内容',
+          '备注',
         ],
         rows: [],
       },
@@ -34,6 +35,7 @@ export function generateMarkdown() {
         data.startTime || '',
         data.endTime || '',
         data.content || '',
+        data.remarks || '',
       ]);
     });
 

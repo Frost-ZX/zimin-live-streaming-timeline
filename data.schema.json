@@ -26,6 +26,11 @@
             "type": "string",
             "title": "直播内容",
             "default": ""
+          },
+          "remarks": {
+            "type": "string",
+            "title": "备注",
+            "default": ""
           }
         },
         "defaultSnippets": [
@@ -35,6 +40,15 @@
               "startTime": "",
               "endTime": "",
               "content": ""
+            }
+          },
+          {
+            "label": "基础格式 + 备注",
+            "body": {
+              "startTime": "",
+              "endTime": "",
+              "content": "",
+              "remarks": ""
             }
           }
         ]
