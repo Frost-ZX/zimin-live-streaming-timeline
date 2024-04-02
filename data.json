@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-04-02 02:22",
+      "endTime": "2024-04-02 04:37",
+      "content": "Minecraft 2024 愚人节版本"
+    },
+    {
       "startTime": "2024-04-01 21:18",
       "endTime": "2024-04-01 22:07",
       "content": "线下直播测试"
