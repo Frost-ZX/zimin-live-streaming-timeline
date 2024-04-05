@@ -2,6 +2,17 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-04-05 14:03",
+      "endTime": "2024-04-05 17:20",
+      "content": "上海杨浦滨江 CityWalk",
+      "remarks": "[bilibili 动态](https://www.bilibili.com/opus/916028215451975716)"
+    },
+    {
+      "startTime": "2024-04-05 01:40",
+      "endTime": "2024-04-05 04:03",
+      "content": "Minecraft 2024 愚人节版本"
+    },
+    {
       "startTime": "2024-04-04 01:05",
       "endTime": "2024-04-04 07:09",
       "content": "Minecraft 魔法金属整合包 / 三角洲行动"
