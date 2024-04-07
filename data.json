@@ -2,6 +2,12 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-04-07 04:51",
+      "endTime": "2024-04-07 07:45",
+      "content": "Minecraft 泰拉瑞亚整合包生存试玩",
+      "remarks": "[TerrariaCraft - CurseForge](https://www.curseforge.com/minecraft/mc-mods/terraria-craft)"
+    },
+    {
       "startTime": "2024-04-06 02:00",
       "endTime": "2024-04-06 04:36",
       "content": "元梦之星 / 三角洲行动"
