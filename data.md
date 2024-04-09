@@ -1,5 +1,6 @@
 | 开始时间 | 结束时间 | 直播内容 | 备注  |
 | ---- | ---- | ---- | --- |
+| 2024-04-09 05:31 | 2024-04-09 09:05 | 三角洲行动 |  |
 | 2024-04-07 04:51 | 2024-04-07 07:45 | Minecraft 泰拉瑞亚整合包生存试玩 | [TerrariaCraft - CurseForge](https://www.curseforge.com/minecraft/mc-mods/terraria-craft) |
 | 2024-04-06 02:00 | 2024-04-06 04:36 | 元梦之星 / 三角洲行动 |  |
 | 2024-04-05 14:03 | 2024-04-05 17:20 | 上海杨浦滨江 CityWalk | [bilibili 动态](https://www.bilibili.com/opus/916028215451975716) |
