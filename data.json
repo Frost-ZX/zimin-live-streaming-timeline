@@ -2,6 +2,12 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-04-12 17:27",
+      "endTime": "2024-04-12 18:07",
+      "content": "广州华南理工大学五山校区",
+      "remarks": "[bilibili 动态](https://www.bilibili.com/opus/918748316992274464)"
+    },
+    {
       "startTime": "2024-04-11 23:37",
       "endTime": "2024-04-12 01:06",
       "content": "元梦之星"
