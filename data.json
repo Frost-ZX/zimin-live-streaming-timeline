@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-04-13 17:17",
+      "endTime": "2024-04-13 17:24",
+      "content": "东莞划龙舟"
+    },
+    {
       "startTime": "2024-04-12 17:27",
       "endTime": "2024-04-12 18:07",
       "content": "广州华南理工大学五山校区",
