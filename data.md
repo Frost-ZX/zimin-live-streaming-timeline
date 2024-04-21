@@ -1,5 +1,6 @@
 | 开始时间 | 结束时间 | 直播内容 | 备注  |
 | ---- | ---- | ---- | --- |
+| 2024-04-21 20:56 | 2024-04-21 21:59 | Minecraft 地图《狂乱之境 IV》 | [bilibili 视频](https://www.bilibili.com/video/BV1hp421X7Dn) |
 | 2024-04-20 18:34 | 2024-04-20 20:31 | Minecraft 恐怖解谜《暗影秘网》 | [bilibili 视频](https://www.bilibili.com/video/BV1gt421N7Aj) |
 | 2024-04-16 08:21 | 2024-04-16 10:41 | 游戏《崩溃大陆 2》 | [bilibili 视频](https://www.bilibili.com/video/BV1jz421C72U) |
 | 2024-04-15 03:45 | 2024-04-15 08:11 | 游戏《Tinkerlands》 | [bilibili 视频](https://www.bilibili.com/video/BV1ZM4m1Q7TB) |
