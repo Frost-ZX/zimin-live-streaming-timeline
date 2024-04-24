@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-04-24 02:41",
+      "endTime": "2024-04-24 04:28",
+      "content": "Minecraft 亡者世界整合包生存试玩"
+    },
+    {
       "startTime": "2024-04-22 02:35",
       "endTime": "2024-04-22 04:37",
       "content": "游戏《Forts》"
