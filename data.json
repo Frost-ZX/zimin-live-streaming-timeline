@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-04-26 14:14",
+      "endTime": "2024-04-26 15:45",
+      "content": "北京户外"
+    },
+    {
       "startTime": "2024-04-24 02:41",
       "endTime": "2024-04-24 04:28",
       "content": "Minecraft 亡者世界整合包生存试玩",
