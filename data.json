@@ -2,6 +2,12 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-05-01 10:33",
+      "endTime": "2024-05-01 15:38",
+      "content": "Minecraft 基岩版《Tinycraft》地图 / 游戏《植物大战僵尸》 / 游戏《Forts》 / 游戏《帝国时代 4》",
+      "remarks": "bilibili 直播签约"
+    },
+    {
       "startTime": "2024-04-27 11:54",
       "endTime": "2024-04-27 15:45",
       "content": "游戏《熔炉密林》",
