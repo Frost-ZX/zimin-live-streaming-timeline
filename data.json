@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-05-06 22:39",
+      "endTime": "2024-05-07 02:29",
+      "content": "聊天 / Minecraft 基岩版《深渊天使》地图"
+    },
+    {
       "startTime": "2024-05-06 02:34",
       "endTime": "2024-05-06 04:31",
       "content": "Minecraft《无限的战争 2.0》整合包生存试玩",
