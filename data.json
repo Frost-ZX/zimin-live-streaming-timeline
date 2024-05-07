@@ -2,6 +2,12 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-05-06 02:34",
+      "endTime": "2024-05-06 04:31",
+      "content": "Minecraft《无限的战争 2.0》整合包生存试玩",
+      "remarks": "[bilibili 视频](https://www.bilibili.com/video/BV1Qz421U7mo)"
+    },
+    {
       "startTime": "2024-05-05 19:17",
       "endTime": "2024-05-05 23:13",
       "content": "Minecraft 基岩版《15 Year Journey》地图 / 聊天 / 游戏《植物大战僵尸》"
