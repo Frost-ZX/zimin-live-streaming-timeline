@@ -2,6 +2,27 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-05-26 01:45",
+      "endTime": "2024-05-26 04:39",
+      "content": "聊天 / 游戏《植物大战僵尸》"
+    },
+    {
+      "startTime": "2024-05-23 12:59",
+      "endTime": "2024-05-23 18:31",
+      "content": "深圳文博会",
+      "remarks": "[bilibili 视频](https://www.bilibili.com/video/BV1kT421i7fb)"
+    },
+    {
+      "startTime": "2024-05-22 01:41",
+      "endTime": "2024-05-22 03:18",
+      "content": "聊天 / 游戏《植物大战僵尸》"
+    },
+    {
+      "startTime": "2024-05-20 01:04",
+      "endTime": "2024-05-20 02:45",
+      "content": "游戏《植物大战僵尸》"
+    },
+    {
       "startTime": "2024-05-18 11:02",
       "endTime": "2024-05-18 11:37",
       "content": "线下直播"
