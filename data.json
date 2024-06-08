@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-06-08 14:52",
+      "endTime": "2024-06-08 14:57",
+      "content": "新设备开播尝试"
+    },
+    {
       "startTime": "2024-05-26 01:45",
       "endTime": "2024-05-26 04:39",
       "content": "聊天 / 游戏《植物大战僵尸》"
