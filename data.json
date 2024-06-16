@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-06-15 06:50",
+      "endTime": "2024-06-15 09:04",
+      "content": "聊天 / Minecraft Java 新版本 1.21 介绍"
+    },
+    {
       "startTime": "2024-06-08 14:52",
       "endTime": "2024-06-08 14:57",
       "content": "新设备开播尝试"
