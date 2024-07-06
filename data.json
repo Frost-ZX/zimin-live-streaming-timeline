@@ -2,6 +2,37 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-07-06 01:13",
+      "endTime": "2024-07-06 04:03",
+      "content": "聊天 / Minecraft《时空旅行者剑魔灭世篇》地图"
+    },
+    {
+      "startTime": "2024-07-04 23:51",
+      "endTime": "2024-07-05 02:32",
+      "content": "Minecraft《地下城英雄》整合包生存试玩"
+    },
+    {
+      "startTime": "2024-07-03 13:16",
+      "endTime": "2024-07-03 20:59",
+      "content": "游戏《文明 6》"
+    },
+    {
+      "startTime": "2024-06-27 23:20",
+      "endTime": "2024-06-28 01:03",
+      "content": "游戏《植物大战僵尸》"
+    },
+    {
+      "startTime": "2024-06-26 03:09",
+      "endTime": "2024-06-26 07:00",
+      "content": "游戏《植物大战僵尸》 / 游戏《三角洲行动》"
+    },
+    {
+      "startTime": "2024-06-16 17:00",
+      "endTime": "2024-06-16 20:04",
+      "content": "溯源机械革命苏州工厂，揭秘机械革命 RTX 40 系游戏本",
+      "remarks": "[bilibili 动态](https://www.bilibili.com/opus/943534487408476163) [bilibili 视频](https://www.bilibili.com/video/BV1tz421z73i)"
+    },
+    {
       "startTime": "2024-06-15 06:50",
       "endTime": "2024-06-15 09:04",
       "content": "聊天 / Minecraft Java 新版本 1.21 介绍"
