@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-07-07 23:43",
+      "endTime": "2024-07-08 06:07",
+      "content": "游戏《文明 6》"
+    },
+    {
       "startTime": "2024-07-06 01:13",
       "endTime": "2024-07-06 04:03",
       "content": "聊天 / Minecraft《时空旅行者剑魔灭世篇》地图"
