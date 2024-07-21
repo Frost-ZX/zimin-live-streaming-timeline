@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-07-21 02:15",
+      "endTime": "2024-07-21 05:14",
+      "content": "聊天 / Minecraft《Infernal Origins》整合包"
+    },
+    {
       "startTime": "2024-07-19 23:53",
       "endTime": "2024-07-20 04:01",
       "content": "Minecraft《Infernal Origins》整合包 / 游戏《极品飞车：集结》"
