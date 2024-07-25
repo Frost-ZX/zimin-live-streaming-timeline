@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-07-25 02:54",
+      "endTime": "2024-07-25 05:04",
+      "content": "Minecraft 跃动夏辉，暑假线上 MC 跑酷大赛"
+    },
+    {
+      "startTime": "2024-07-24 01:08",
+      "endTime": "2024-07-24 04:08",
+      "content": "聊天 / Minecraft 溯源 RPG 服务器试玩"
+    },
+    {
       "startTime": "2024-07-22 02:07",
       "endTime": "2024-07-22 06:25",
       "content": "聊天 / Minecraft《Infernal Origins》整合包"
