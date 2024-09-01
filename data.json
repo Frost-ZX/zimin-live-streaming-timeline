@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-09-01 17:56",
+      "endTime": "2024-09-01 22:27",
+      "content": "Minecraft MineBox 服务器试玩"
+    },
+    {
       "startTime": "2024-08-10 18:41",
       "endTime": "2024-08-10 22:32",
       "content": "江西新余仙女湖七夕文化旅游节",
