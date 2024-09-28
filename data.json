@@ -2,6 +2,12 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-09-13 21:18",
+      "endTime": "2024-09-13 23:02",
+      "content": "七彩虹 RTX 笔记本校园分享会（武汉工程大学现场互动）",
+      "remarks": "[bilibili 动态](https://www.bilibili.com/opus/974359738266419223)"
+    },
+    {
       "startTime": "2024-09-01 17:56",
       "endTime": "2024-09-01 22:27",
       "content": "Minecraft MineBox 服务器试玩"
