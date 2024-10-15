@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-10-14 21:39",
+      "endTime": "2024-10-15 04:37",
+      "content": "聊天 / Minecraft 大冒险生存 / 游戏《植物大战僵尸融合版》"
+    },
+    {
+      "startTime": "2024-10-14 03:00",
+      "endTime": "2024-10-14 05:53",
+      "content": "聊天 / Minecraft 大冒险生存"
+    },
+    {
       "startTime": "2024-10-12 23:15",
       "endTime": "2024-10-13 04:47",
       "content": "聊天 / Minecraft 大冒险生存 / 聊天"
