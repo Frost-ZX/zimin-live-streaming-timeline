@@ -2,6 +2,21 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-10-18 05:22",
+      "endTime": "2024-10-18 07:47",
+      "content": "Minecraft《变革 2》生存试玩"
+    },
+    {
+      "startTime": "2024-10-17 05:04",
+      "endTime": "2024-10-17 07:38",
+      "content": "Minecraft《Reign of Nether》模组"
+    },
+    {
+      "startTime": "2024-10-16 02:54",
+      "endTime": "2024-10-16 06:04",
+      "content": "聊天 / Minecraft《四季秘境 2》生存试玩"
+    },
+    {
       "startTime": "2024-10-14 21:39",
       "endTime": "2024-10-15 04:37",
       "content": "聊天 / Minecraft 大冒险生存 / 游戏《植物大战僵尸融合版》"
