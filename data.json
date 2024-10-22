@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-10-21 05:19",
+      "endTime": "2024-10-21 07:31",
+      "content": "Minecraft《Lucky World Invasion》生存试玩"
+    },
+    {
+      "startTime": "2024-10-19 17:53",
+      "endTime": "2024-10-19 19:58",
+      "content": "Minecraft《RLCraft Dregora》生存试玩"
+    },
+    {
       "startTime": "2024-10-18 05:22",
       "endTime": "2024-10-18 07:47",
       "content": "Minecraft《变革 2》生存试玩"
