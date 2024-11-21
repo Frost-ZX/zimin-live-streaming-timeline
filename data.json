@@ -2,6 +2,26 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-11-21 12:20",
+      "endTime": "2024-11-21 16:56",
+      "content": "游戏《云顶之奕》"
+    },
+    {
+      "startTime": "2024-11-21 04:31",
+      "endTime": "2024-11-21 07:21",
+      "content": "聊天 / Minecraft Legendary Edition"
+    },
+    {
+      "startTime": "2024-11-19 00:25",
+      "endTime": "2024-11-19 05:54",
+      "content": "聊天 / Minecraft《RLCraft Dregora》"
+    },
+    {
+      "startTime": "2024-11-18 03:41",
+      "endTime": "2024-11-18 06:12",
+      "content": "聊天 / Minecraft Chocolate Edition"
+    },
+    {
       "startTime": "2024-11-16 23:28",
       "endTime": "2024-11-17 04:02",
       "content": "聊天 / Minecraft《RLCraft Dregora》 / Minecraft 1.21.3 / Minecraft Hypixel 服务器 / Human Benchmark 网站 / Minecraft Minebox 服务器"
