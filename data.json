@@ -2,6 +2,21 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-12-01 14:04",
+      "endTime": "2024-12-01 16:53",
+      "content": "聊天 / Minecraft《RLCraft Dregora》"
+    },
+    {
+      "startTime": "2024-11-30 20:54",
+      "endTime": "2024-12-01 00:05",
+      "content": "聊天 / Minecraft 俄罗斯整合包生存《欲望与毁灭》试玩"
+    },
+    {
+      "startTime": "2024-11-24 00:28",
+      "endTime": "2024-11-24 01:54",
+      "content": "聊天 / Minecraft 恐怖解谜《Black Wood》"
+    },
+    {
       "startTime": "2024-11-21 12:20",
       "endTime": "2024-11-21 16:56",
       "content": "游戏《云顶之奕》"
