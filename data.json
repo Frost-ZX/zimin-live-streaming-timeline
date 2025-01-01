@@ -2,6 +2,26 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2024-12-31 23:59",
+      "endTime": "2025-01-01 03:56",
+      "content": "聊天 / Minecraft《RLCraft Dregora》"
+    },
+    {
+      "startTime": "2024-12-30 08:35",
+      "endTime": "2024-12-30 12:48",
+      "content": "Minecraft《RLCraft Dregora》"
+    },
+    {
+      "startTime": "2024-12-29 08:57",
+      "endTime": "2024-12-29 14:04",
+      "content": "Minecraft《RLCraft Dregora》"
+    },
+    {
+      "startTime": "2024-12-28 09:16",
+      "endTime": "2024-12-28 12:24",
+      "content": "Minecraft《RLCraft Dregora》"
+    },
+    {
       "startTime": "2024-12-24 01:49",
       "endTime": "2024-12-24 04:41",
       "content": "聊天 / Minecraft《RLCraft Dregora》"
