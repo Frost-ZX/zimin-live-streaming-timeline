@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-01-03 07:38",
+      "endTime": "2025-01-03 11:39",
+      "content": "聊天 / Minecraft《RLCraft Dregora》 / 聊天"
+    },
+    {
+      "startTime": "2025-01-02 03:11",
+      "endTime": "2025-01-02 07:27",
+      "content": "聊天 / Minecraft《RLCraft Dregora》"
+    },
+    {
       "startTime": "2024-12-31 23:59",
       "endTime": "2025-01-01 03:56",
       "content": "聊天 / Minecraft《RLCraft Dregora》"

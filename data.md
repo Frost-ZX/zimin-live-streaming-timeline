@@ -1,5 +1,7 @@
 | 开始时间 | 结束时间 | 直播内容 | 备注  |
 | ---- | ---- | ---- | --- |
+| 2025-01-03 07:38 | 2025-01-03 11:39 | 聊天 / Minecraft《RLCraft Dregora》 / 聊天 |  |
+| 2025-01-02 03:11 | 2025-01-02 07:27 | 聊天 / Minecraft《RLCraft Dregora》 |  |
 | 2024-12-31 23:59 | 2025-01-01 03:56 | 聊天 / Minecraft《RLCraft Dregora》 |  |
 | 2024-12-30 08:35 | 2024-12-30 12:48 | Minecraft《RLCraft Dregora》 |  |
 | 2024-12-29 08:57 | 2024-12-29 14:04 | Minecraft《RLCraft Dregora》 |  |
