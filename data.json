@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-01-26 01:46",
+      "endTime": "2025-01-26 08:07",
+      "content": "Minecraft《RLCraft Dregora》 / 游戏《植物大战僵尸融合版》"
+    },
+    {
+      "startTime": "2025-01-24 19:05",
+      "endTime": "2025-01-25 05:32",
+      "content": "游戏《三角洲行动》 / 聊天 / Minecraft《RLCraft Dregora》 / 聊天"
+    },
+    {
       "startTime": "2025-01-22 18:46",
       "endTime": "2025-01-22 21:17",
       "content": "Minecraft TeaCon 服务器"
