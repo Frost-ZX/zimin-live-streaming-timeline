@@ -2,6 +2,21 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-01-31 02:45",
+      "endTime": "2025-01-31 06:51",
+      "content": "Minecraft 舰长服巡游"
+    },
+    {
+      "startTime": "2025-01-30 04:45",
+      "endTime": "2025-01-30 06:24",
+      "content": "Minecraft Java 新版本 25w05a 介绍"
+    },
+    {
+      "startTime": "2025-01-28 23:56",
+      "endTime": "2025-01-29 05:28",
+      "content": "聊天 / Minecraft 烟花 / Minecraft 幸运方块 / 聊天"
+    },
+    {
       "startTime": "2025-01-26 01:46",
       "endTime": "2025-01-26 08:07",
       "content": "Minecraft《RLCraft Dregora》 / 游戏《植物大战僵尸融合版》"
