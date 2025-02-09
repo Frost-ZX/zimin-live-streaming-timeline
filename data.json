@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-02-08 20:46",
+      "endTime": "2025-02-09 00:23",
+      "content": "聊天 / Minecraft 机械功力与文明整合包试玩"
+    },
+    {
       "startTime": "2025-01-31 02:45",
       "endTime": "2025-01-31 06:51",
       "content": "Minecraft 舰长服巡游"
