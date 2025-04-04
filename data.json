@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-04-04 11:00",
+      "endTime": "2025-04-04 14:35",
+      "content": "聊天 / Minecraft 基岩版预览版 / Minecraft 基岩版《我的世界大电影》线上活动"
+    },
+    {
+      "startTime": "2025-04-02 06:16",
+      "endTime": "2025-04-02 11:37",
+      "content": "聊天 / Minecraft 2025 年愚人节版本极限生存"
+    },
+    {
       "startTime": "2025-03-31 23:12",
       "endTime": "2025-04-01 00:38",
       "content": "Minecraft 基岩版《我的世界大电影》线上活动"
