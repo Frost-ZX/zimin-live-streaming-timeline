@@ -2,6 +2,72 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-03-31 23:12",
+      "endTime": "2025-04-01 00:38",
+      "content": "Minecraft 基岩版《我的世界大电影》线上活动"
+    },
+    {
+      "startTime": "2025-03-31 20:27",
+      "endTime": "2025-03-31 22:04",
+      "content": "雷神科技 AI 新品",
+      "remarks": "[bilibili 动态](https://www.bilibili.com/opus/1049215185673256978)"
+    },
+    {
+      "startTime": "2025-03-31 18:05",
+      "endTime": "2025-03-31 18:28",
+      "content": "Minecraft 基岩版《我的世界大电影》线上活动"
+    },
+    {
+      "startTime": "2025-03-31 11:19",
+      "endTime": "2025-03-31 11:39",
+      "content": "直播测试"
+    },
+    {
+      "startTime": "2025-03-31 05:36",
+      "endTime": "2025-03-31 10:24",
+      "content": "聊天 / Minecraft《Lost World: The Broken Script》整合包"
+    },
+    {
+      "startTime": "2025-03-29 17:27",
+      "endTime": "2025-03-29 23:35",
+      "content": "聊天 / Minecraft Roguelike Adventures and Dungeons 整合包试玩 / Minecraft 基岩版《我的世界大电影》线上活动"
+    },
+    {
+      "startTime": "2025-03-29 02:21",
+      "endTime": "2025-03-29 07:33",
+      "content": "聊天 / Minecraft《永恒的方块宝可梦》整合包生存试玩 / 聊天"
+    },
+    {
+      "startTime": "2025-03-28 10:28",
+      "endTime": "2025-03-28 16:33",
+      "content": "聊天 / 游戏《inZOI》 / Minecraft 基岩版《我的世界大电影》线上活动"
+    },
+    {
+      "startTime": "2025-03-27 21:13",
+      "endTime": "2025-03-28 03:59",
+      "content": "Minecraft 基岩版《我的世界大电影》线上活动 / Minecraft 海洋方块 2 整合包生存 / Minecraft 基岩版《我的世界大电影》线上活动"
+    },
+    {
+      "startTime": "2025-03-27 01:26",
+      "endTime": "2025-03-27 06:10",
+      "content": "聊天 / Minecraft 恐怖解谜《Fears to Fathom 溯源之惧》 / Minecraft 基岩版《我的世界大电影》线上活动 / Minecraft 基岩版跑酷地图"
+    },
+    {
+      "startTime": "2025-03-26 12:59",
+      "endTime": "2025-03-26 13:48",
+      "content": "Minecraft Java 1.21.5 新版本介绍"
+    },
+    {
+      "startTime": "2025-03-26 06:58",
+      "endTime": "2025-03-26 09:56",
+      "content": "聊天 / Minecraft《史前世界》整合包生存试玩"
+    },
+    {
+      "startTime": "2025-03-24 21:59",
+      "endTime": "2025-03-25 03:05",
+      "content": "聊天 / Minecraft 雾中人整合包生存 / 聊天"
+    },
+    {
       "startTime": "2025-03-22 21:50",
       "endTime": "2025-03-23 04:22",
       "content": "聊天 / Minecraft 领域服多人小游戏 / Minecraft Live / 聊天 / 游戏《MC大战僵尸2》"
