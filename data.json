@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-04-22 10:07",
+      "endTime": "2025-04-22 16:43",
+      "content": "游戏《荒野起源》试玩"
+    },
+    {
       "startTime": "2025-04-18 09:23",
       "endTime": "2025-04-18 10:22",
       "content": "无锡梅园户外直播"
