@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-04-23 09:37",
+      "endTime": "2025-04-23 14:02",
+      "content": "聊天 / Minecraft Java 新版本 25w17a 介绍 / 游戏《荒野起源》"
+    },
+    {
       "startTime": "2025-04-22 10:07",
       "endTime": "2025-04-22 16:43",
       "content": "游戏《荒野起源》试玩"
