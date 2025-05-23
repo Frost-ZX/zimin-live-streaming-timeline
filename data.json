@@ -2,6 +2,21 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-05-23 10:34",
+      "endTime": "2025-05-23 11:56",
+      "content": "2025 全球人工智能终端展"
+    },
+    {
+      "startTime": "2025-05-22 16:45",
+      "endTime": "2025-05-22 17:58",
+      "content": "深圳户外"
+    },
+    {
+      "startTime": "2025-05-22 12:01",
+      "endTime": "2025-05-22 15:46",
+      "content": "2025 深圳文博会"
+    },
+    {
       "startTime": "2025-05-16 23:07",
       "endTime": "2025-05-17 02:56",
       "content": "Minecraft《厕所空岛》生存与岷同乐"
