@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-05-27 19:31",
+      "endTime": "2025-05-27 21:11",
+      "content": "聊天"
+    },
+    {
       "startTime": "2025-05-25 23:10",
       "endTime": "2025-05-26 03:00",
       "content": "聊天 / Minecraft《BM: Exosphere》整合包试玩"
