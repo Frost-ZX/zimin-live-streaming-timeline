@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-05-30 22:45",
+      "endTime": "2025-05-31 04:29",
+      "content": "Minecraft《厕所空岛》生存与岷同乐 / Minecraft 多人小游戏《temple topper》与岷同乐"
+    },
+    {
       "startTime": "2025-05-27 19:31",
       "endTime": "2025-05-27 21:11",
       "content": "聊天"
