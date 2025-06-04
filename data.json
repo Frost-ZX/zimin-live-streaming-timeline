@@ -2,6 +2,26 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-04 17:28",
+      "endTime": "2025-06-04 21:05",
+      "content": "Minecraft《宝藏猎人》整合包试玩"
+    },
+    {
+      "startTime": "2025-06-03 21:00",
+      "endTime": "2025-06-04 02:46",
+      "content": "聊天 / Minecraft《放逐之路 2》整合包生存"
+    },
+    {
+      "startTime": "2025-06-02 21:15",
+      "endTime": "2025-06-03 05:54",
+      "content": "聊天 / Minecraft Java 多人游戏与岷同乐"
+    },
+    {
+      "startTime": "2025-06-02 00:45",
+      "endTime": "2025-06-02 05:02",
+      "content": "聊天 / Minecraft《Fantasy MC Fabric》整合包试玩 / 聊天"
+    },
+    {
       "startTime": "2025-05-31 22:21",
       "endTime": "2025-06-01 03:02",
       "content": "Minecraft《放逐之路 2》整合包生存 / 聊天"
