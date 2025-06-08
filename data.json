@@ -2,6 +2,21 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-07 21:56",
+      "endTime": "2025-06-08 03:08",
+      "content": "Minecraft《血族帝国：武装革命》整合包生存 / Minecraft《FinzKill Zero》整合包生存"
+    },
+    {
+      "startTime": "2025-06-06 00:05",
+      "endTime": "2025-06-06 05:05",
+      "content": "聊天 / 游戏《Mario Kart World》 / Minecraft《落幕曲》整合包生存试玩"
+    },
+    {
+      "startTime": "2025-06-05 19:05",
+      "endTime": "2025-06-05 19:08",
+      "content": "设备测试"
+    },
+    {
       "startTime": "2025-06-04 17:28",
       "endTime": "2025-06-04 21:05",
       "content": "Minecraft《宝藏猎人》整合包试玩"
