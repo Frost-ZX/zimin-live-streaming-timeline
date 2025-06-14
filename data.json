@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-14 08:26",
+      "endTime": "2025-06-14 13:35",
+      "content": "聊天 / Minecraft《转世之旅》整合包生存 / 聊天"
+    },
+    {
       "startTime": "2025-06-13 08:49",
       "endTime": "2025-06-13 13:34",
       "content": "聊天 / Minecraft《幸运方块入侵》整合包生存 / 聊天"
