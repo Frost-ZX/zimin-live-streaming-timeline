@@ -31,12 +31,22 @@ export function generateMarkdown() {
     let result = ''
 
     jsonParsed.timeline.forEach((data) => {
+
+      let content = String(data.content || '');
+
+      if (content) {
+        content = content.split(' / ').map((v) => {
+          return `- ${v}`;
+        }).join('<br>');
+      }
+
       tableRows.push([
         data.startTime || '',
         data.endTime || '',
-        data.content || '',
+        content,
         data.remarks || '',
       ]);
+
     });
 
     result = json2md(jsonMarkdown);
