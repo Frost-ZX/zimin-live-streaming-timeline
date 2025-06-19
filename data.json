@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-16 20:51",
+      "endTime": "2025-06-17 04:18",
+      "content": "聊天 / Minecraft《放逐之路 2》整合包生存"
+    },
+    {
       "startTime": "2025-06-15 22:09",
       "endTime": "2025-06-16 01:51",
       "content": "聊天 / Minecraft Java 多人游戏与岷同乐"
