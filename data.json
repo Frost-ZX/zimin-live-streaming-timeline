@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-17 23:35",
+      "endTime": "2025-06-18 03:48",
+      "content": "聊天 / Minecraft Java 新版本 1.21.6 介绍 / Minecraft 基岩版官方光影"
+    },
+    {
       "startTime": "2025-06-16 20:51",
       "endTime": "2025-06-17 04:18",
       "content": "聊天 / Minecraft《放逐之路 2》整合包生存"
