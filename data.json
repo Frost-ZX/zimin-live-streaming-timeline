@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-15 22:09",
+      "endTime": "2025-06-16 01:51",
+      "content": "聊天 / Minecraft Java 多人游戏与岷同乐"
+    },
+    {
       "startTime": "2025-06-15 11:10",
       "endTime": "2025-06-15 16:06",
       "content": "聊天 / Minecraft《Solo Leveling: Reawakening》整合包生存试玩"
