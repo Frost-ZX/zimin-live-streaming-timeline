@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-20 03:06",
+      "endTime": "2025-06-20 06:26",
+      "content": "聊天 / Minecraft《BAcraft》整合包生存试玩"
+    },
+    {
       "startTime": "2025-06-19 00:05",
       "endTime": "2025-06-19 05:37",
       "content": "聊天 / Minecraft《恐怖黎明》整合包生存试玩"
