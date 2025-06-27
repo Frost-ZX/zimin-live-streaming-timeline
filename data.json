@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-25 09:18",
+      "endTime": "2025-06-25 09:52",
+      "content": "聊天"
+    },
+    {
+      "startTime": "2025-06-25 01:50",
+      "endTime": "2025-06-25 05:49",
+      "content": "聊天 / Minecraft 俄罗斯解谜地图《代号项目》"
+    },
+    {
       "startTime": "2025-06-24 11:58",
       "endTime": "2025-06-24 15:29",
       "content": "聊天 / Minecraft《Immersive Fight》整合包生存试玩"
