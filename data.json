@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-26 05:18",
+      "endTime": "2025-06-26 09:36",
+      "content": "聊天 / Minecraft Java 1.21.7 RC1 大电影纪念版新版本介绍"
+    },
+    {
       "startTime": "2025-06-25 09:18",
       "endTime": "2025-06-25 09:52",
       "content": "聊天"
