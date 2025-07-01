@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-28 09:33",
+      "endTime": "2025-06-28 16:36",
+      "content": "聊天 / Minecraft《机械动力齿轮盛宴》整合包生存试玩"
+    },
+    {
       "startTime": "2025-06-27 12:18",
       "endTime": "2025-06-27 16:03",
       "content": "聊天 / Minecraft《Arcane Coffeeria》（奥术咖啡馆）整合包生存试玩"
