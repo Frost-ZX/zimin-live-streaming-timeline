@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-06-30 12:32",
+      "endTime": "2025-06-30 17:12",
+      "content": "聊天 / 游戏《永恒岛梦旅》"
+    },
+    {
       "startTime": "2025-06-29 16:35",
       "endTime": "2025-06-29 23:07",
       "content": "聊天 / Minecraft《幸运方块入侵》整合包生存"
