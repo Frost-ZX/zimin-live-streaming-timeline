@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-07-02 11:11",
+      "endTime": "2025-07-02 15:33",
+      "content": "聊天 / Minecraft 基岩版预览版 1.21.100 介绍"
+    },
+    {
       "startTime": "2025-06-30 22:52",
       "endTime": "2025-07-01 04:48",
       "content": "聊天 / Minecraft《放逐之路 2》整合包生存"
