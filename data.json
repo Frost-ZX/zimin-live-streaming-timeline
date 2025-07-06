@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-07-05 17:16",
+      "endTime": "2025-07-05 20:21",
+      "content": "聊天 / Minecraft《龙珠》整合包生存试玩"
+    },
+    {
       "startTime": "2025-07-02 11:11",
       "endTime": "2025-07-02 15:33",
       "content": "聊天 / Minecraft 基岩版预览版 1.21.100 介绍"
