@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-07-17 10:09",
+      "endTime": "2025-07-17 11:08",
+      "content": "V聚场"
+    },
+    {
       "startTime": "2025-07-15 10:49",
       "endTime": "2025-07-15 16:02",
       "content": "聊天 / Minecraft《Better MC》整合包生存 / 聊天"
