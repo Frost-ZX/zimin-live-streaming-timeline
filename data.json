@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-07-24 22:32",
+      "endTime": "2025-07-25 03:28",
+      "content": "聊天 / Minecraft《放逐之路 2》整合包生存"
+    },
+    {
       "startTime": "2025-07-23 21:31",
       "endTime": "2025-07-24 01:12",
       "content": "聊天 / Minecraft 基岩版 RLCraft 试玩"
