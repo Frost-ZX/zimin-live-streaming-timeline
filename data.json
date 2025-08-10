@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-07-29 22:54",
+      "endTime": "2025-07-30 07:20",
+      "content": "聊天 / Minecraft Java 新版本 25w31a 介绍 / 聊天 / 游戏《Grounded 2》（禁闭生存 2）"
+    },
+    {
       "startTime": "2025-07-28 16:56",
       "endTime": "2025-07-28 22:25",
       "content": "聊天 / Minecraft《Better MC》整合包生存 / 聊天"
