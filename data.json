@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-07-31 23:04",
+      "endTime": "2025-08-01 08:12",
+      "content": "Minecraft《Integrated MC》（集成的 MC）整合包生存试玩 / 聊天 / 游戏《云顶之弈》"
+    },
+    {
+      "startTime": "2025-07-31 15:52",
+      "endTime": "2025-07-31 20:48",
+      "content": "游戏《云顶之弈》"
+    },
+    {
       "startTime": "2025-07-30 18:04",
       "endTime": "2025-07-30 22:41",
       "content": "聊天 / Minecraft《放逐之路 2》整合包生存"
