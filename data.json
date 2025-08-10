@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-07-26 14:01",
+      "endTime": "2025-07-26 19:32",
+      "content": "2025 世界人工智能大会 / 户外直播"
+    },
+    {
       "startTime": "2025-07-25 20:10",
       "endTime": "2025-07-25 22:38",
       "content": "游戏《第五人格》"
