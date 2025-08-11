@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-08-02 01:01",
+      "endTime": "2025-08-02 05:10",
+      "content": "Minecraft《The Fungal Infection》（真菌感染）整合包生存试玩 / 游戏《云顶之弈》"
+    },
+    {
       "startTime": "2025-08-01 15:38",
       "endTime": "2025-08-01 17:54",
       "content": "游戏《云顶之弈》"
