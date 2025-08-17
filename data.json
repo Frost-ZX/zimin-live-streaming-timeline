@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-08-06 20:26",
+      "endTime": "2025-08-07 05:46",
+      "content": "聊天 / Minecraft《放逐之路 2》整合包生存 / 游戏《云顶之弈》"
+    },
+    {
+      "startTime": "2025-08-06 01:23",
+      "endTime": "2025-08-06 03:42",
+      "content": "聊天 / Minecraft Java 新版本 25w32a 介绍"
+    },
+    {
       "startTime": "2025-08-05 18:07",
       "endTime": "2025-08-05 19:58",
       "content": "Minecraft《ZombieCraft: Zombie Apocalypse》（僵尸启示录）整合包生存试玩"
