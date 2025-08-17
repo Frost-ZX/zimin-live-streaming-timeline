@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-08-08 02:34",
+      "endTime": "2025-08-08 04:54",
+      "content": "Minecraft《尘封古纪》整合包试玩"
+    },
+    {
       "startTime": "2025-08-07 17:51",
       "endTime": "2025-08-07 19:48",
       "content": "游戏《战地风云 6》"
