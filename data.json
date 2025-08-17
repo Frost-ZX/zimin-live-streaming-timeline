@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-08-07 17:51",
+      "endTime": "2025-08-07 19:48",
+      "content": "游戏《战地风云 6》"
+    },
+    {
       "startTime": "2025-08-06 20:26",
       "endTime": "2025-08-07 05:46",
       "content": "聊天 / Minecraft《放逐之路 2》整合包生存 / 游戏《云顶之弈》"
