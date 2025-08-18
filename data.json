@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-08-12 23:14",
+      "endTime": "2025-08-12 04:01",
+      "content": "聊天 / Minecraft Java 新版本 25w33a 介绍 / 聊天"
+    },
+    {
       "startTime": "2025-08-08 02:34",
       "endTime": "2025-08-08 04:54",
       "content": "Minecraft《尘封古纪》整合包试玩"
