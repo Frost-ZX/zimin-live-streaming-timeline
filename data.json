@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-08-14 00:43",
+      "endTime": "2025-08-14 05:00",
+      "content": "聊天 / Minecraft《愚者 - The Fool》整合包生存"
+    },
+    {
       "startTime": "2025-08-12 23:14",
       "endTime": "2025-08-12 04:01",
       "content": "聊天 / Minecraft Java 新版本 25w33a 介绍 / 聊天"
