@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-08-24 21:42",
+      "endTime": "2025-08-25 01:03",
+      "content": "聊天 / Minecraft《冰河物语》整合包生存，和作者一起玩"
+    },
+    {
       "startTime": "2025-08-23 21:01",
       "endTime": "2025-08-23 22:56",
       "content": "聊天 / Minecraft 版传送门《Portal: Java Edition》"
