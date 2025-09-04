@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-08-28 03:03",
+      "endTime": "2025-08-28 06:37",
+      "content": "Minecraft 基岩版《Realism Craft 2.0》（真实生存 2.0）试玩"
+    },
+    {
       "startTime": "2025-08-27 01:53",
       "endTime": "2025-08-27 04:02",
       "content": "聊天 / Minecraft Java 新版本 25w35a 介绍"
