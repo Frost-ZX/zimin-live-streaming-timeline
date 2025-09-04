@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-08-27 01:53",
+      "endTime": "2025-08-27 04:02",
+      "content": "聊天 / Minecraft Java 新版本 25w35a 介绍"
+    },
+    {
       "startTime": "2025-08-26 20:00",
       "endTime": "2025-08-26 23:06",
       "content": "游戏《超级忍 反攻的斩击》"
