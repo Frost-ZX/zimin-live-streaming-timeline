@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-09-02 00:36",
+      "endTime": "2025-09-02 02:43",
+      "content": "聊天 / Minecraft《DeceasedCraft》（亡者世界）整合包内测版本试玩"
+    },
+    {
       "startTime": "2025-08-31 22:10",
       "endTime": "2025-09-01 02:27",
       "content": "聊天 / Minecraft《锻造之旅》整合包生存，和作者一起玩 / 聊天"
