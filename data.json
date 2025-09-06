@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-08-31 22:10",
+      "endTime": "2025-09-01 02:27",
+      "content": "聊天 / Minecraft《锻造之旅》整合包生存，和作者一起玩 / 聊天"
+    },
+    {
       "startTime": "2025-08-28 03:03",
       "endTime": "2025-08-28 06:37",
       "content": "Minecraft 基岩版《Realism Craft 2.0》（真实生存 2.0）试玩"
