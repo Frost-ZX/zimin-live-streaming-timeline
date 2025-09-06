@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-09-03 18:29",
+      "endTime": "2025-09-03 19:11",
+      "content": "直播测试（超分辨率功能）"
+    },
+    {
+      "startTime": "2025-09-03 01:06",
+      "endTime": "2025-09-03 02:19",
+      "content": "Minecraft Java 新版本 25w36b 介绍"
+    },
+    {
       "startTime": "2025-09-02 00:36",
       "endTime": "2025-09-02 02:43",
       "content": "聊天 / Minecraft《DeceasedCraft》（亡者世界）整合包内测版本试玩"
