@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-09-04 22:56",
+      "endTime": "2025-09-05 01:46",
+      "content": "游戏《Hollow Knight: Silksong》（空洞骑士：丝之歌）"
+    },
+    {
       "startTime": "2025-09-03 18:29",
       "endTime": "2025-09-03 19:11",
       "content": "直播测试（超分辨率功能）"
