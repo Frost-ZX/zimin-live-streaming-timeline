@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-09-10 01:42",
+      "endTime": "2025-09-10 05:00",
+      "content": "聊天 / Minecraft Java 新版本 25w37a 介绍 / 聊天"
+    },
+    {
       "startTime": "2025-09-05 23:17",
       "endTime": "2025-09-06 02:48",
       "content": "游戏《Hollow Knight: Silksong》（空洞骑士：丝之歌）"
