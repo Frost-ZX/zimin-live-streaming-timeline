@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-09-28 01:01",
+      "endTime": "2025-09-28 02:43",
+      "content": "Minecraft Live / 聊天 / Minecraft 1.21.9 Release Candidate 1"
+    },
+    {
       "startTime": "2025-09-20 20:45",
       "endTime": "2025-09-21 00:58",
       "content": "Minecraft《RePalmon》整合包生存，和作者一起玩"
