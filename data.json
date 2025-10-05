@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-10-03 23:22",
+      "endTime": "2025-10-04 02:33",
+      "content": "聊天 / Minecraft《RLCraft Dregora》1.1.0 最新整合包生存试玩"
+    },
+    {
       "startTime": "2025-10-02 23:24",
       "endTime": "2025-10-03 03:09",
       "content": "Minecraft 多人小游戏《Candy Land》（糖果大陆）"
