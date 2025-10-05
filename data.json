@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-10-02 23:24",
+      "endTime": "2025-10-03 03:09",
+      "content": "Minecraft 多人小游戏《Candy Land》（糖果大陆）"
+    },
+    {
       "startTime": "2025-10-01 22:01",
       "endTime": "2025-10-02 01:23",
       "content": "聊天 / Minecraft《Ultimate Lucky Oneblock》（单方块幸运方块空岛）整合包生存"
