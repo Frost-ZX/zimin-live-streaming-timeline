@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-10-05 14:22",
+      "endTime": "2025-10-05 16:34",
+      "content": "聊天 / Minecraft《ZombieCraft: Zombie Apocalypse》（僵尸启示录）整合包生存"
+    },
+    {
       "startTime": "2025-10-04 19:50",
       "endTime": "2025-10-05 00:11",
       "content": "游戏《消逝的光芒：困兽》"
