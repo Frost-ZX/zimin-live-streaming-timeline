@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-10-13 19:01",
+      "endTime": "2025-10-13 22:08",
+      "content": "vivo X300 系列发布会 / 聊天"
+    },
+    {
       "startTime": "2025-10-12 16:39",
       "endTime": "2025-10-12 20:00",
       "content": "上海杨浦长阳创谷户外直播"
