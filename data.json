@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-10-18 02:01",
+      "endTime": "2025-10-18 04:52",
+      "content": "Minecraft《远梦之棺》（The Casket of Reveries）整合包生存试玩 / 聊天"
+    },
+    {
       "startTime": "2025-10-17 13:27",
       "endTime": "2025-10-17 16:30",
       "content": "上海户外直播（Gelato 冰淇淋自助畅吃）"
