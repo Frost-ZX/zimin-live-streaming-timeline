@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-10-17 13:27",
+      "endTime": "2025-10-17 16:30",
+      "content": "上海户外直播（Gelato 冰淇淋自助畅吃）"
+    },
+    {
+      "startTime": "2025-10-17 02:22",
+      "endTime": "2025-10-17 04:03",
+      "content": "Minecraft《Swords n' Sorcery》（剑与魔法）整合包生存试玩"
+    },
+    {
       "startTime": "2025-10-15 22:50",
       "endTime": "2025-10-16 00:38",
       "content": "游戏《Everwind》（风屿奇航）Demo"
