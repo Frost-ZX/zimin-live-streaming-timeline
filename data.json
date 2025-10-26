@@ -2,6 +2,21 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-10-19 21:39",
+      "endTime": "2025-10-20 00:24",
+      "content": "户外直播，吃烧烤"
+    },
+    {
+      "startTime": "2025-10-19 15:58",
+      "endTime": "2025-10-19 18:38",
+      "content": "聊天 / Minecraft《ZombieCraft: Zombie Apocalypse》（僵尸启示录）整合包生存"
+    },
+    {
+      "startTime": "2025-10-19 02:24",
+      "endTime": "2025-10-19 05:01",
+      "content": "聊天 / Minecraft《Confluence: Journey's Start》（汇流来世）整合包生存 / 聊天"
+    },
+    {
       "startTime": "2025-10-18 02:01",
       "endTime": "2025-10-18 04:52",
       "content": "Minecraft《远梦之棺》（The Casket of Reveries）整合包生存试玩 / 聊天"
