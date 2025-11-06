@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-10-22 01:44",
+      "endTime": "2025-10-22 06:01",
+      "content": "聊天 / Minecraft Java 新版本 25w43a 介绍 / 聊天"
+    },
+    {
       "startTime": "2025-10-21 15:20",
       "endTime": "2025-10-21 16:11",
       "content": "上海松江户外直播（我是市民发言人，城市文明开放麦）"
