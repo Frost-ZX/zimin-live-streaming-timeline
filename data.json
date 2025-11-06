@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-10-24 17:27",
+      "endTime": "2025-10-24 21:01",
+      "content": "Minecraft《Confluence: Journey's Start》（汇流来世）整合包生存"
+    },
+    {
       "startTime": "2025-10-23 15:45",
       "endTime": "2025-10-23 20:07",
       "content": "户外直播（City Walk、吃播）"
