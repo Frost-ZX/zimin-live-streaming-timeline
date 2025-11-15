@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-03 13:59",
+      "endTime": "2025-11-03 18:11",
+      "content": "户外直播，第八届进博会"
+    },
+    {
       "startTime": "2025-11-02 02:50",
       "endTime": "2025-11-02 05:42",
       "content": "聊天 / Minecraft Java 新版本 25w44a 介绍 / 聊天"
