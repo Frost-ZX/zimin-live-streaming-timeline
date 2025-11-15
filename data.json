@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-05 23:37",
+      "endTime": "2025-11-06 04:07",
+      "content": "Minecraft《Confluence: Journey's Start》（汇流来世）整合包生存"
+    },
+    {
+      "startTime": "2025-11-05 02:02",
+      "endTime": "2025-11-05 05:30",
+      "content": "聊天 / Minecraft《Confluence: Journey's Start》（汇流来世）整合包生存"
+    },
+    {
       "startTime": "2025-11-03 13:59",
       "endTime": "2025-11-03 18:11",
       "content": "户外直播，第八届进博会"
