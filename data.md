@@ -1,5 +1,6 @@
 | 开始时间 | 结束时间 | 直播内容 | 备注  |
 | ---- | ---- | ---- | --- |
+| 2025-11-07 23:47 | 2025-11-08 04:36 | - 游戏《I Am Machine》（我是机器）<br>- 聊天<br>- Minecraft 解谜游戏《逃离 Ave Myhuca 的世界》<br>- 聊天 |  |
 | 2025-11-06 20:41 | 2025-11-07 03:05 | - 聊天<br>- Minecraft《ZombieCraft: Zombie Apocalypse》（僵尸启示录）整合包生存<br>- 聊天 |  |
 | 2025-11-05 23:37 | 2025-11-06 04:07 | - Minecraft《Confluence: Journey's Start》（汇流来世）整合包生存 |  |
 | 2025-11-05 02:02 | 2025-11-05 05:30 | - 聊天<br>- Minecraft《Confluence: Journey's Start》（汇流来世）整合包生存 |  |

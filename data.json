@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-07 23:47",
+      "endTime": "2025-11-08 04:36",
+      "content": "游戏《I Am Machine》（我是机器） / 聊天 / Minecraft 解谜游戏《逃离 Ave Myhuca 的世界》 / 聊天"
+    },
+    {
       "startTime": "2025-11-06 20:41",
       "endTime": "2025-11-07 03:05",
       "content": "聊天 / Minecraft《ZombieCraft: Zombie Apocalypse》（僵尸启示录）整合包生存 / 聊天"
