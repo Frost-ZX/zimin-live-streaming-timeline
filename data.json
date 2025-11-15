@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-08 14:01",
+      "endTime": "2025-11-08 18:23",
+      "content": "户外直播，2025年日喀则市高原特色商品“藏品入沪”主题活动开幕式"
+    },
+    {
       "startTime": "2025-11-07 23:47",
       "endTime": "2025-11-08 04:36",
       "content": "游戏《I Am Machine》（我是机器） / 聊天 / Minecraft 解谜游戏《逃离 Ave Myhuca 的世界》 / 聊天"
