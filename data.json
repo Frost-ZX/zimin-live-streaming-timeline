@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-09 01:48",
+      "endTime": "2025-11-09 05:14",
+      "content": "聊天 / Minecraft《The Zombie Conquest - Zombie Apocalypse》（僵尸末日）整合包生存试玩 / 聊天"
+    },
+    {
       "startTime": "2025-11-08 14:01",
       "endTime": "2025-11-08 18:23",
       "content": "户外直播，2025年日喀则市高原特色商品“藏品入沪”主题活动开幕式"
