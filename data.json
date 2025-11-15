@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-01 00:08",
+      "endTime": "2025-11-01 03:28",
+      "content": "户外直播，在深圳和飞翔使吃小龙虾"
+    },
+    {
       "startTime": "2025-10-31 18:29",
       "endTime": "2025-10-31 20:19",
       "content": "联想天禧Al 一体多端 秋季新品超能之夜"
