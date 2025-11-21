@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-15 15:30",
+      "endTime": "2025-11-15 18:31",
+      "content": "户外直播，上海海洋大学蟹文化节"
+    },
+    {
       "startTime": "2025-11-14 22:47",
       "endTime": "2025-11-15 03:03",
       "content": "聊天 / 游戏《消逝的光芒：困兽》 / 聊天"

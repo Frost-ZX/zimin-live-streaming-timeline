@@ -1,5 +1,6 @@
 | 开始时间 | 结束时间 | 直播内容 | 备注  |
 | ---- | ---- | ---- | --- |
+| 2025-11-15 15:30 | 2025-11-15 18:31 | - 户外直播，上海海洋大学蟹文化节 |  |
 | 2025-11-14 22:47 | 2025-11-15 03:03 | - 聊天<br>- 游戏《消逝的光芒：困兽》<br>- 聊天 |  |
 | 2025-11-13 23:55 | 2025-11-14 04:38 | - 聊天<br>- Minecraft《Cobblemon》整合包生存试玩<br>- Minecraft 领域服《Mega Parkour Irregular Non-Convex Rhombicosidodecahedron Mini 2》跑酷地图 |  |
 | 2025-11-12 21:55 | 2025-11-13 03:17 | - Minecraft《ZombieCraft: Zombie Apocalypse》（僵尸启示录）整合包生存<br>- 聊天 |  |
