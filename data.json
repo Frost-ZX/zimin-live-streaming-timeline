@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-17 23:05",
+      "endTime": "2025-11-18 03:59",
+      "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存 / 聊天"
+    },
+    {
       "startTime": "2025-11-16 23:33",
       "endTime": "2025-11-17 04:43",
       "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存 / 聊天"
