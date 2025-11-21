@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-14 22:47",
+      "endTime": "2025-11-15 03:03",
+      "content": "聊天 / 游戏《消逝的光芒：困兽》 / 聊天"
+    },
+    {
       "startTime": "2025-11-13 23:55",
       "endTime": "2025-11-14 04:38",
       "content": "聊天 / Minecraft《Cobblemon》整合包生存试玩 / Minecraft 领域服《Mega Parkour Irregular Non-Convex Rhombicosidodecahedron Mini 2》跑酷地图"
