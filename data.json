@@ -2,6 +2,21 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-23 23:37",
+      "endTime": "2025-11-24 06:13",
+      "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存 / 游戏《云顶之弈》"
+    },
+    {
+      "startTime": "2025-11-23 15:53",
+      "endTime": "2025-11-23 20:18",
+      "content": "复旦大学基岩社 Minecraft 多人游戏服务器 / 户外直播"
+    },
+    {
+      "startTime": "2025-11-23 03:51",
+      "endTime": "2025-11-23 07:36",
+      "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存"
+    },
+    {
       "startTime": "2025-11-21 19:05",
       "endTime": "2025-11-22 00:34",
       "content": "游戏《消逝的光芒》 / 聊天 / 游戏《云顶之弈》"
