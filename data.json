@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "202511-29 21:21",
+      "endTime": "202511-30 03:04",
+      "content": "游戏《消逝的光芒》"
+    },
+    {
+      "startTime": "202511-29 14:06",
+      "endTime": "202511-29 18:31",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
       "startTime": "2025-11-29 02:12",
       "endTime": "2025-11-29 05:00",
       "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存"
