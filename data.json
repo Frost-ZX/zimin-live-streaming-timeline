@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-11-30 13:56",
+      "endTime": "2025-11-30 20:17",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
       "startTime": "202511-29 21:21",
       "endTime": "202511-30 03:04",
       "content": "游戏《消逝的光芒》"
