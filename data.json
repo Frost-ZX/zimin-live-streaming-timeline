@@ -2,6 +2,26 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-12-08 22:10",
+      "endTime": "2025-12-09 03:16",
+      "content": "聊天 / 游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2025-12-08 12:13",
+      "endTime": "2025-12-08 16:00",
+      "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存 / 聊天"
+    },
+    {
+      "startTime": "2025-12-07 23:45",
+      "endTime": "2025-12-08 04:34",
+      "content": "聊天 / 游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2025-12-07 11:15",
+      "endTime": "2025-12-07 15:25",
+      "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存 / 聊天"
+    },
+    {
       "startTime": "2025-12-06 21:06",
       "endTime": "2025-12-07 00:27",
       "content": "游戏《明日方舟：终末地》"
