@@ -2,18 +2,38 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-12-02 12:44",
+      "endTime": "2025-12-02 17:55",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2025-12-02 01:53",
+      "endTime": "2025-12-02 06:03",
+      "content": "聊天 / Minecraft 基岩版《Core Craft》整合包生存试玩"
+    },
+    {
+      "startTime": "2025-12-01 11:33",
+      "endTime": "2025-12-01 16:04",
+      "content": "聊天 / 游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2025-12-01 02:31",
+      "endTime": "2025-12-01 07:13",
+      "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存"
+    },
+    {
       "startTime": "2025-11-30 13:56",
       "endTime": "2025-11-30 20:17",
       "content": "游戏《明日方舟：终末地》"
     },
     {
-      "startTime": "202511-29 21:21",
-      "endTime": "202511-30 03:04",
+      "startTime": "2025-11-29 21:21",
+      "endTime": "2025-11-30 03:04",
       "content": "游戏《消逝的光芒》"
     },
     {
-      "startTime": "202511-29 14:06",
-      "endTime": "202511-29 18:31",
+      "startTime": "2025-11-29 14:06",
+      "endTime": "2025-11-29 18:31",
       "content": "游戏《明日方舟：终末地》"
     },
     {
