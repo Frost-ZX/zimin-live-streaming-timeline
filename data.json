@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-12-22 20:06",
+      "endTime": "2025-12-23 02:33",
+      "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存 / 游戏《Forts》"
+    },
+    {
+      "startTime": "2025-12-22 03:33",
+      "endTime": "2025-12-22 04:28",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
       "startTime": "2025-12-20 19:00",
       "endTime": "2025-12-21 01:56",
       "content": "游戏《9-Bit Armies: A Bit Too Far》 / Minecraft《永恒的 MC 2》整合包生存 / 游戏《Forts》 / 游戏《明日方舟：终末地》"
