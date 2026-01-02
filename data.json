@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2025-12-31 22:24",
+      "endTime": "2026-01-01 04:39",
+      "content": "Minecraft Java 多人跑酷 / 游戏《Forts》 / 游戏《王者万象棋》"
+    },
+    {
+      "startTime": "2025-12-31 00:33",
+      "endTime": "2025-12-31 05:04",
+      "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存"
+    },
+    {
       "startTime": "2025-12-29 18:57",
       "endTime": "2025-12-29 22:55",
       "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存 / 聊天"
