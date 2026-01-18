@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-01-16 19:20",
+      "endTime": "2026-01-17 01:37",
+      "content": "观看游戏《明日方舟：终末地》公测前瞻直播 / 聊天 / Minecraft《永恒的 MC 2》整合包生存 / 聊天"
+    },
+    {
       "startTime": "2026-01-15 02:40",
       "endTime": "2026-01-15 06:12",
       "content": "Minecraft《The Adventure of Valkyriens 2》（瓦尔基里大冒险 2）生存试玩"
