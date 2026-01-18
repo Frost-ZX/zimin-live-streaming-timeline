@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-01-12 01:05",
+      "endTime": "2026-01-12 05:30",
+      "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存"
+    },
+    {
       "startTime": "2026-01-10 18:42",
       "endTime": "2026-01-10 20:58",
       "content": "Minecraft 整合包《Otherworld [Dungeons & Dragons]》试玩"
