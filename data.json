@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-01-14 02:27",
+      "endTime": "2026-01-14 06:45",
+      "content": "Minecraft Java 新版本 26.1 Snapshot 3 介绍 / 游戏《Hytale》初体验"
+    },
+    {
       "startTime": "2026-01-12 01:05",
       "endTime": "2026-01-12 05:30",
       "content": "聊天 / Minecraft《永恒的 MC 2》整合包生存"
