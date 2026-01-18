@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-01-08 02:04",
+      "endTime": "2026-01-08 03:47",
+      "content": "Minecraft Java 新版本 26.1 Snapshot 2 介绍 / 聊天"
+    },
+    {
       "startTime": "2026-01-07 00:31",
       "endTime": "2026-01-07 02:57",
       "content": "游戏《StarRupture》（星际裂变）"
