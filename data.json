@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-01-07 00:31",
+      "endTime": "2026-01-07 02:57",
+      "content": "游戏《StarRupture》（星际裂变）"
+    },
+    {
       "startTime": "2026-01-06 16:33",
       "endTime": "2026-01-06 18:32",
       "content": "Minecraft《永恒的 MC 2》整合包生存"
