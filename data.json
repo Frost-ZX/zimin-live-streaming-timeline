@@ -2,6 +2,21 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-02-06 19:58",
+      "endTime": "2026-02-07 01:47",
+      "content": "Minecraft 基岩版与岷同乐，惊变一百天生存竞赛 / 游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-02-06 07:22",
+      "endTime": "2026-02-06 10:00",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-02-05 19:52",
+      "endTime": "2026-02-06 01:03",
+      "content": "Minecraft 基岩版与岷同乐，惊变一百天生存竞赛 / 游戏《明日方舟：终末地》"
+    },
+    {
       "startTime": "2026-02-04 20:17",
       "endTime": "2026-02-05 06:29",
       "content": "Minecraft《永恒的 MC 2》整合包生存 / 游戏《明日方舟：终末地》"
