@@ -2,6 +2,21 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-02-02 17:19",
+      "endTime": "2026-02-03 01:10",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-02-02 01:40",
+      "endTime": "2026-02-02 05:32",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-02-01 12:23",
+      "endTime": "2026-02-01 19:14",
+      "content": "Minecraft《永恒的 MC 2》整合包生存 / 游戏《明日方舟：终末地》 / 游戏《王者万象棋》"
+    },
+    {
       "startTime": "2026-01-31 14:56",
       "endTime": "2026-02-01 01:39",
       "content": "游戏《Terraria》 / 游戏《明日方舟：终末地》"
