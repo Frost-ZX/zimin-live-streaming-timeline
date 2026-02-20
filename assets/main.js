@@ -3,7 +3,7 @@ let charts = {};
 
 async function loadData() {
   try {
-    let response = await fetch('../data.json');
+    let response = await fetch('./data.json');
     let data = await response.json();
     allData = data.timeline || [];
     return allData;
