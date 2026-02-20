@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>直播统计可视化</title>
+  <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+  <div class="container">
+
+    <h1>直播统计可视化</h1>
+
+    <div class="filter-section">
+      <label>开始日期:</label>
+      <input type="date" id="startDate">
+      <label>结束日期:</label>
+      <input type="date" id="endDate">
+      <button id="filterBtn">筛选</button>
+    </div>
+
+    <div class="stats-summary">
+      <div class="stat-card">
+        <h3>总直播时长</h3>
+        <div class="value" id="totalHours">0</div>
+      </div>
+      <div class="stat-card">
+        <h3>直播次数</h3>
+        <div class="value" id="totalCount">0</div>
+      </div>
+      <div class="stat-card">
+        <h3>不同内容数</h3>
+        <div class="value" id="uniqueContent">0</div>
+      </div>
+      <div class="stat-card">
+        <h3>平均时长</h3>
+        <div class="value" id="avgDuration">0</div>
+      </div>
+    </div>
+
+    <div class="charts-grid">
+      <div class="chart-container">
+        <h2>直播内容次数</h2>
+        <div id="contentChart" class="chart"></div>
+      </div>
+      <div class="chart-container">
+        <h2>每日直播次数</h2>
+        <div id="dailyChart" class="chart"></div>
+      </div>
+      <div class="chart-container">
+        <h2>直播时段分布</h2>
+        <div id="hourlyChart" class="chart"></div>
+      </div>
+      <div class="chart-container">
+        <h2>直播时长趋势</h2>
+        <div id="trendChart" class="chart"></div>
+      </div>
+    </div>
+
+  </div>
+  <div class="footer">
+    <span>本页面使用 TRAE 生成</span>
+  </div>
+  <script src="./echarts-v6.0.0.min.js"></script>
+  <script src="./main.js"></script>
+</body>
+</html>
