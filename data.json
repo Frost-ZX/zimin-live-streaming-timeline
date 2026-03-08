@@ -2,6 +2,21 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-02-24 11:53",
+      "endTime": "2026-02-24 20:15",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-02-23 22:08",
+      "endTime": "2026-02-24 02:54",
+      "content": "Minecraft 籽岷舰长服多人跑酷（2024 生日地图） / 游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-02-23 15:15",
+      "endTime": "2026-02-23 18:42",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
       "startTime": "2026-02-22 22:43",
       "endTime": "2026-02-23 03:06",
       "content": "Minecraft 籽岷舰长服游戏 / 游戏《明日方舟：终末地》"
