@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-03-08 21:16",
+      "endTime": "2026-03-09 03:14",
+      "content": "Minecraft 籽岷舰长服游戏 / 游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-03-07 22:37",
+      "endTime": "2026-03-08 02:10",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
       "startTime": "2026-03-06 20:26",
       "endTime": "2026-03-07 05:43",
       "content": "游戏《Terraria》 / 游戏《明日方舟：终末地》 / 游戏《Stay the Spire 2》"
