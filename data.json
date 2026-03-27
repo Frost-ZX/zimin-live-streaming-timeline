@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-03-23 22:43",
+      "endTime": "2026-03-24 00:39",
+      "content": "游戏《How Many Dudes?》（多少兄弟？） / 游戏《明日方舟：终末地》"
+    },
+    {
       "startTime": "2026-03-22 20:16",
       "endTime": "2026-03-23 01:30",
       "content": "Minecraft 籽岷舰长服游戏 / 游戏《明日方舟：终末地》"
