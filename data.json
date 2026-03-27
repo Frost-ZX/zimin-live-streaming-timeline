@@ -2,6 +2,16 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-03-18 17:56",
+      "endTime": "2026-03-19 01:49",
+      "content": "联想消费春季新品品鉴直播 / 游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-03-17 21:58",
+      "endTime": "2026-03-18 02:18",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
       "startTime": "2026-03-16 19:00",
       "endTime": "2026-03-17 01:00",
       "content": "小龙虾 大战 我的世界（OpenCLaw VS Minecraft） / 游戏《明日方舟：终末地》"
