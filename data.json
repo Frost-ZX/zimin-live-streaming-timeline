@@ -2,6 +2,11 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-05-02 21:10",
+      "endTime": "2026-05-03 03:20",
+      "content": "Minecraft 国产多人 PVE 肉鸽地图《源石试炼》试玩 / 游戏《明日方舟：终末地》"
+    },
+    {
       "startTime": "2026-05-01 22:21",
       "endTime": "2026-05-02 04:02",
       "content": "游戏《明日方舟》 / 游戏《明日方舟：终末地》"
