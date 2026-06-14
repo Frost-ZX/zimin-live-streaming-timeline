@@ -2,6 +2,36 @@
   "$schema": "./data.schema.json",
   "timeline": [
     {
+      "startTime": "2026-06-12 12:20",
+      "endTime": "2026-06-12 14:58",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-06-11 15:08",
+      "endTime": "2026-06-11 15:52",
+      "content": "游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-06-10 21:09",
+      "endTime": "2026-06-11 03:03",
+      "content": "游戏《Terraria》 / 游戏《明日方舟：终末地》 / 游戏《Forts》 / 游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-06-09 21:34",
+      "endTime": "2026-06-10 03:49",
+      "content": "游戏《Forts》 / Minecraft《No Flesh Within Chest 2》（脆骨症 2）整合包生存试玩 / 游戏《Forts》 / 游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-06-09 01:09",
+      "endTime": "2026-06-09 04:35",
+      "content": "游戏《Forts》 / 游戏《明日方舟：终末地》"
+    },
+    {
+      "startTime": "2026-06-07 20:29",
+      "endTime": "2026-06-08 04:03",
+      "content": "游戏《Forts》 / 游戏《明日方舟：终末地》"
+    },
+    {
       "startTime": "2026-06-07 03:31",
       "endTime": "2026-06-07 04:35",
       "content": "游戏《明日方舟：终末地》"
